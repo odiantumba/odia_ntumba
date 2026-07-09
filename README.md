@@ -1,36 +1,22 @@
-# odiantumba
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/odiantumba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/odia-ntumba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Odia Ntumba
-====================================================================================================================================
 
-Data Specialist
----------------
+Hi 👋 
+My name is Odia Ntumba
+-
 
 I'm a Data Engineer and Analytics Professional passionate about designing scalable data solutions that transform raw data into meaningful business insights. My work sits at the intersection of Data Engineering, Analytics, and Business Intelligence, where I build reliable data pipelines, develop modern analytics platforms, and help organisations become more data-driven.
 
-\--------------------------------------------------------------------------------------------
-
 My career began in Digital Analytics, working with enterprise clients to implement measurement strategies using technologies such as Google Analytics 4 (GA4), Google Tag Manager (GTM), BigQuery, Microsoft Clarity, Looker Studio, and Power BI. This gave me a strong understanding of how businesses use data to measure performance, optimise digital experiences, and support strategic decision-making.
-
-\--------------------------------------------------------------------------------------------
 
 As I continued working with data, I grew increasingly curious about what happens behind analytics dashboards, the engineering that powers reliable reporting and scalable analytics. That curiosity led me into Data Engineering, where I now focus on building modern, cloud-based data solutions that collect, transform, store, and deliver trusted data for reporting and business intelligence.
 
-\--------------------------------------------------------------------------------------------
-
 I hold a Postgraduate Diploma in Data Science and a Bachelor of Commerce in Information Systems and Insurance & Risk Management from the University of the Witwatersrand (Wits University). My academic background gave me a strong foundation in data science, information systems, statistics, databases, software development, and business processes, while my professional experience has sharpened my skills in cloud technologies, data modelling, ETL development, analytics engineering, and reporting.
-
-\--------------------------------------------------------------------------------------------
 
 My technical stack includes SQL, Python, PySpark, BigQuery, Databricks, Apache Spark, Delta Lake, Microsoft Fabric, Power BI, Git, and GitHub. I'm passionate about building scalable data platforms, automating workflows, designing efficient ETL/ELT pipelines, and delivering business intelligence solutions that drive real value for organisations.
 
-\--------------------------------------------------------------------------------------------
-
 Outside of my professional role, I enjoy mentoring aspiring data professionals and facilitating Data Engineering training, helping others build practical skills in SQL, Python, Databricks, Apache Spark, and modern data engineering practices. I believe learning never stops - every project is another opportunity to grow as an engineer.
-
-\--------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [odiantumba@icloud.com](mailto:odiantumba@icloud.com)
